@@ -416,5 +416,3 @@ Nice work! Now we will begin the clean up process, so that we can prevent charge
 Great job! Thank you for viewing my project and following along. I hope you enjoyed it! For more details on similar projects and more, please visit my GitHub portfolio: https://github.com/ceciliacloud
 
 ![](./images/giphy.gif)
-
-# Detecing-incidents-eks-microsvcs
